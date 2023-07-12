@@ -4,4 +4,4 @@
 - 📫 How to reach me albert.mossakowski@gmail.com
 
 
-<h1 class="text-center">Witaj!</h1>
+                                                    <h1>Witaj!</h1>
