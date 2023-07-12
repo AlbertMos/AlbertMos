@@ -3,7 +3,5 @@
 - 🌱 I’m currently learning C++, HTML, CSS, BOOTSTRAP.
 - 📫 How to reach me albert.mossakowski@gmail.com
 
-h1{
-      color: blue;
-    }
-<h1>Witaj!</h1>
+
+<h1 class="text-center">Witaj!</h1>
