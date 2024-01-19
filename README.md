@@ -6,7 +6,7 @@
 - 👋 Hi. I'm Albert.
 - 👀 I’m interested in coding, boxing, movies, cats.
 - 🌱 I’m currently learning BOOTSTRAP and software testing.
-- 💬 Ask me about... C++, HTML, CSS,
+- 💬 Ask me about... JAVA, C++, HTML, CSS,
 - 📫 How to reach me albert.mossakowski@gmail.com
 - or...
 
