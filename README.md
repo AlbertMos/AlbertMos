@@ -5,8 +5,8 @@
 ### :woman_technologist: About Me :
 - 👋 Hi. I'm Albert.
 - 👀 I’m interested in coding, boxing, movies, cats.
-- 🌱 I’m currently learning BOOTSTRAP and software testing.
-- 💬 Ask me about... JAVA, C++, HTML, CSS,
+- 🌱 I’m currently learning JAVA, T-SQL(Procedures, Triggers, Functions), UML
+- 💬 Ask me about... JAVA, C++, T-SQL, PL/SQL, HTML, CSS
 - 📫 How to reach me albert.mossakowski@gmail.com
 - or...
 
